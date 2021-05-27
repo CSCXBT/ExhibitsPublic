@@ -13,7 +13,9 @@ An example of an exhibit that I think would do well here is Clark Planetarium's 
 
 ## Concept #2 - Hyperwall Variant
 ![](4.png)
-* This would basically be entirely the same as concept 1, except it would involve a Hyperwall wrap around the outside of the exhibit instead of a dome overtop.
+* This would basically be entirely the same as concept 1, except it would involve a Hyperwall wrap around the outside of the exhibit instead of a dome overtop. 
+* There is also the potential to have the hyperwall screens double as interactive screens - so that part of the screen would change to present a particular exhibit while the rest still displays the overall space theme. 
+* This could still be built in such a way that it could be driven by a presenter.
 
 ## Concept #3 - Mission Control
 1. The anchor experience of this concept would instead lean more heavily into making directly interconnected exhibits, a 'Multiplayer' experience. Different stations with different 'roles' would all run concurrently to allow the users to perform a fictionalized exploratory mission together. This would either:
