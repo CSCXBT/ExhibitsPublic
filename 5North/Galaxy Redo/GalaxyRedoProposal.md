@@ -19,7 +19,7 @@ Obviously these are all loose concepts just to convey the gist of the experience
 * Have a constantly running mission that you can hop in and out of at your own will.
 * Have a mission on a timer, but also have a secondary exhibit experience you can do at the kiosks while you wait for the next mission to start.
 
-Programmatically I believe this third option to be the most complex to execute, but could be great is executed correctly. 
+Programmatically I believe this third option to be the most complex to execute, but could be great if executed correctly. 
 
 ## Conclusion
 
